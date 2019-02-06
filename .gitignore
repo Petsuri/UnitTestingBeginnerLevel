@@ -1,0 +1,17 @@
+obj
+bin
+*.suo
+*.pdb
+*.exe
+*.cache
+*.dll
+*.user
+*.orig
+*.bak
+*.lock.json
+*.nuget.targets
+*.userprefs
+.vs/
+packages/*
+TestResults/*
+node_modules/
